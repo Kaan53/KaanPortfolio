@@ -3,8 +3,7 @@ import nairobi from './backgrounds/nairobi.png';
 import whiteabstract from './backgrounds/white-abstract.png';
 import worldmap from './backgrounds/world-map.png';
 
-/* import logo from './logo/logo-text-black.png'; */
-import logotext from './logo/logo-text.png';
+import logotext1 from './logo/logo-text.webp';
 
 import shaq from './personal/shaq.png';
 import kaan from './personal/kaan.png';
@@ -57,7 +56,7 @@ export {
   whiteabstract,
   worldmap,
  /*  logo, */
-  logotext,
+  logotext1,
   shaq,
   kaan,
   backend,

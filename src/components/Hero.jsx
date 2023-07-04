@@ -80,7 +80,7 @@ const Hero = () => {
         </div>
 
         {/* Your image comes here. Feel free to remove image if you don't plan to have one.*/}
-        <div>
+        {/* <div>
           <img
             className="absolute bottom-0 ml-[50vw] 
             lg:ml-[75vw] md:ml-[60vw] xmd:ml-[60vw] 2xl:ml-[83vw]
@@ -88,7 +88,7 @@ const Hero = () => {
             src={kaan}
             alt="shaquille"
           />
-        </div>
+        </div> */}
       </section>
     </>
   );

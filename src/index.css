@@ -48,23 +48,24 @@
 }
 
 .nav-links:hover::after {
-  width: 70%;
+  width: 65%;
 }
 
 #about {
-  margin-left: -24px;
-  font-size: 100px;
+  margin-left: 50px;
+  font-size: 50px;
 }
 
 #projects {
-  margin-left: -2px;
-  font-size: 100px;
+  margin-left: 50px;
+  font-size: 50px;
 }
 
 #contact {
-  margin-left: -20px;
-  font-size: 95px;
-  letter-spacing: -2px;
+  margin-left: 50px;
+  font-size: 50px;
+/*   letter-spacing: -2px;
+ */
 }
 
 .hero-heading {

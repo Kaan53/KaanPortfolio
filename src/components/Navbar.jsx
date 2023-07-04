@@ -2,7 +2,7 @@ import React, { useEffect, useState } from 'react';
 import { Link } from 'react-router-dom';
 import { styles } from '../styles';
 import { navLinks } from '../constants';
-import { close, menu, logotext } from '../assets';
+import { close, menu, logotext1 } from '../assets';
 
 const Navbar = () => {
   const [active, setActive] = useState('');
@@ -29,7 +29,7 @@ const Navbar = () => {
           {/* if you have text you want besides your logo it comes here.
           Otherwise delete this if you don't need it. */}
           <img
-            src={logotext}
+            src={logotext1}
             alt="logo"
             className="sm:w-[90px] sm:h-[90px] w-[85px] h-[85px] -ml-[0.6rem] object-contain"
           />

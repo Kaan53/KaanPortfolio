@@ -37,14 +37,9 @@ const About = () => {
       <motion.p
         variants={fadeIn('', '', 0.1, 1)}
         className="mt-4 text-taupe text-[18px] max-w-3xl leading-[30px]">
-Merhaba, ben Kaan Erdem. 1999 doğumlu bir genç olarak, 24 yaşındayım ve kendimden bahsetmek istiyorum. Eğitim hayatıma Ata İlköğretim Okulu'nda başladım ve başarıyla mezun olduktan sonra Doğa Koleji'nde lise eğitimimi tamamladım. Üniversiteye geçiş yaptığımda Bilgisayar Programcılığı alanında Okan Üniversitesi'nde eğitim aldım ve bu alanda 2 yıllık bir diplomanın sahibi oldum. Ancak daha fazlasını elde etme arzusuyla başarılarımı taçlandırmak için Nişantaşı Üniversitesi'nde Bilgisayar Mühendisliği programına yönelerek DGS sınavını başarıyla geçtim ve mezun oldum. Ayrıca, askerlik görevimi bedelli olarak tamamladım. <br /> <br />
+Merhaba! Ben Kaan Erdem. Backend ve frontend yazılım geliştirme konularına ilgi duyan bir yazılım geliştiriciyim. Aynı zamanda 3 boyutlu tasarımların web sitesi üzerinde kullanımı konusunda da hevesliyim. Kendimi sürekli geliştirmeye odaklanıyor ve yenilikçi teknolojileri takip ediyorum.
 
-Uzun yıllardır bilgisayar mühendisliği alanında çalışmaktan ve teknolojiyle ilgilenmekten büyük keyif alıyorum. Bilgisayar programlama ve yazılım geliştirme konularında bilgi ve deneyim sahibiyim. Bu alandaki yeteneklerimi geliştirmek için sürekli olarak kendimi eğitiyor ve yenilikleri takip ediyorum. <br /><br />
 
-Bunun yanı sıra, kişisel ilgi alanlarıma da zaman ayırıyorum. Müzik tutkumu piyano çalarak ifade ediyorum ve spor yapmaktan da büyük zevk alıyorum. Futbol, basketbol, voleybol ve masa tenisi gibi sporları aktif olarak takip ediyor ve oynuyorum. <br /><br />
-
-Hedeflerimden biri, bilgisayar mühendisliği alanında başarılı bir kariyere sahip olmak ve teknoloji dünyasında etkili projelere imza atmak. Aynı zamanda, bilgi ve deneyimlerimi paylaşarak başkalarının da bu alanda ilerlemelerine yardımcı olmayı istiyorum. <br /><br />
-İlgilendiğiniz için teşekkür ederim ve web sitemi ziyaret ettiğiniz için minnettarım.
      </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">

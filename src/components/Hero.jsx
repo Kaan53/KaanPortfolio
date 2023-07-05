@@ -7,19 +7,19 @@ import { bwmap, worldmap, kaan } from '../assets';
 const Hero = () => {
   return (
     <>
-      <div className="absolute top-0 left-0 z-0 h-[100vh] w-screen">
+      <div className="absolute top-0 left-0 z-0 h-[100vh] w-full">
         <img
           src={bwmap}
           alt="world map"
           className="w-full h-full sm:block hidden object-cover"
         />
       </div>
-      <div className="absolute top-0 left-0 z-0 h-[100vh] w-screen">
-        <img
+      <div className="absolute top-0 left-0 z-0 h-[100vh] w-full">
+       { <img
           src={worldmap}
           alt="world map"
           className="w-full h-full sm:hidden block object-cover"
-        />
+        />}
       </div>
       <section
         className="relative flex sm:flex-row flex-col w-full h-screen mx-auto 
